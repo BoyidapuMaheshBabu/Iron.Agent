@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iron.Agent.Core", "Iron.Agent.Core\Iron.Agent.Core.csproj", "{500F1F4A-F859-471A-BF3B-F36F79CEA2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iron.Agent.App", "Iron.Agent.App\Iron.Agent.App.csproj", "{0989B391-386B-4477-AD0C-F1BA4D3061C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iron.Agent.Tests", "Iron.Agent.Tests\Iron.Agent.Tests.csproj", "{C3194834-E865-429E-8C6C-105C49B2FF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500F1F4A-F859-471A-BF3B-F36F79CEA2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500F1F4A-F859-471A-BF3B-F36F79CEA2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500F1F4A-F859-471A-BF3B-F36F79CEA2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500F1F4A-F859-471A-BF3B-F36F79CEA2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0989B391-386B-4477-AD0C-F1BA4D3061C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0989B391-386B-4477-AD0C-F1BA4D3061C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0989B391-386B-4477-AD0C-F1BA4D3061C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0989B391-386B-4477-AD0C-F1BA4D3061C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3194834-E865-429E-8C6C-105C49B2FF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3194834-E865-429E-8C6C-105C49B2FF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3194834-E865-429E-8C6C-105C49B2FF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3194834-E865-429E-8C6C-105C49B2FF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

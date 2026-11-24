@@ -1,0 +1,14 @@
+C:\Iron\publish\Iron.Agent.App.exe
+C:\Iron\publish\Iron.Agent.App.dll
+C:\Iron\publish\Iron.Agent.App.deps.json
+C:\Iron\publish\Iron.Agent.App.runtimeconfig.json
+C:\Iron\publish\Iron.Agent.App.pdb
+C:\Iron\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Iron\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Iron\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Iron\publish\System.IO.Pipelines.dll
+C:\Iron\publish\System.Net.Http.Json.dll
+C:\Iron\publish\System.Text.Encodings.Web.dll
+C:\Iron\publish\System.Text.Json.dll
+C:\Iron\publish\Iron.Agent.Core.dll
+C:\Iron\publish\Iron.Agent.Core.pdb
