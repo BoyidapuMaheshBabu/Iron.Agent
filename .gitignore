@@ -1,0 +1,30 @@
+# Build output
+**/bin/
+**/obj/
+**/publish/
+**/publish-selfcontained/
+
+# NuGet packages
+*.nupkg
+**/packages/
+
+# Local NuGet cache
+.nuget/
+
+# Visual Studio
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# Publish output
+publish/
+publish-selfcontained/
